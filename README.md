@@ -39,9 +39,9 @@ Hoje, estou focada em aprofundar meus estudos e dominar as principais ferramenta
 
 📊 **Tecnólogo em Data Science** – FIAP *(jan/2025 → dez/2025)* 
 
-🔬 **Bacharelado em Biomedicina** – *(dez/2018)* 
+🔬 **Bacharelado em Biomedicina** – UniMetrocamp *(dez/2018)* 
 
-🧪 **Técnico em Química** – *(dez/2012)*
+🧪 **Técnico em Química** – ETECAP *(dez/2012)*
 
 ---
 
