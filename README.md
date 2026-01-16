@@ -13,25 +13,16 @@ Hoje, estou focada em aprofundar meus estudos e dominar as principais ferramenta
 ### 👩🏻 **Sobre mim**
 
 🎬 **Cinema** | 🎲 **Board Games** | 🍺 **Cerveja artesanal** | 🎸 **Rock n' Roll** | 🌍 **Viagens**
-<br>
-<br>
 
-##
+---
+
 ### 💼 **Experiência Atual**
 
 🌟 **Estagiária - Tribunal de Justiça de São Paulo (TJSP)**  
 *Secretaria de Tecnologia da Informação (STI)*
 <br>
-<br> 
 
-#
-<div style="display: inline_block"><br> 
- 
-### 💻 **Linguagens**: <img align="center" alt="Flavia-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Flavia-SQL" height="40" width="50" src="https://github.com/user-attachments/assets/4b8723c3-7cab-408f-95b2-1a6907b46748">
-</div>
-
-#
-<br>
+---
 
 ### 🎓 **Formação Acadêmica**
 
@@ -42,6 +33,12 @@ Hoje, estou focada em aprofundar meus estudos e dominar as principais ferramenta
 🔬 **Bacharelado em Biomedicina** – UniMetrocamp *(dez/2018)* 
 
 🧪 **Técnico em Química** – ETECAP *(dez/2012)*
+
+---
+<div style="display: inline_block">
+  <img align="center" alt="Flavia-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Flavia-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  </div>
 
 ---
 
