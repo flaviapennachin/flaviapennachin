@@ -24,7 +24,7 @@ Tribunal de Justiça de São Paulo (TJSP) - Secretaria de Tecnologia da Informa�
  ## 🛠️ Técnologias  
  💻 Linguagens & Frameworks: 
  <img align="center" alt="Flavia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Flavia-SQL" height="30" width="40" src="https://github.com/user-attachments/assets/6f738da4-8452-4ede-8a21-068cfd58d0b0">
+ <img align="center" alt="Flavia-SQL" height="30" width="40" src="https://github.com/user-attachments/assets/4b8723c3-7cab-408f-95b2-1a6907b46748">
  <br>
  
  ☁️ Cloud & Infra: 
