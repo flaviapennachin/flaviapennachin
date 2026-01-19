@@ -1,4 +1,5 @@
-<h1 align="center">Olá, Eu sou a Flavia Pennachin! 👋</h1>
+<h1 align="center">
+  Olá, Eu sou a Flavia Pennachin! 👋</h1>
 
 <p align="center">
   <em>• Estudante de Ciência da Computação   • Foco em Dados   • Inteligência Artificial </em>
@@ -8,9 +9,11 @@
 <p align="center">
 Estou em transição para a área de Tecnologia. 
 Nos últimos dez anos, atuei com vendas B2B no setor ambiental.  
-  
-Hoje, estou focada em aprofundar meus estudos e dominar as principais ferramentas da área de Tecnologia e Data Science, trazendo comigo a **responsabilidade**, a **organização** e a **visão de processos** que construí ao longo da minha trajetória profissional. 
 
+<p align="center">
+Hoje, estou focada em aprofundar meus estudos e dominar as principais ferramentas da área de Tecnologia e Data Science, trazendo comigo a responsabilidade, a organização e a visão de processos que construí ao longo da minha trajetória profissional. 
+
+<p align="center">
 Aqui você encontrará projetos e experimentos com **IA, Python, SQL, Cloud e muito mais** :)
 </p>
 <br>
