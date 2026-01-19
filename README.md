@@ -6,25 +6,28 @@ Nos últimos dez anos, atuei com **vendas B2B no setor ambiental**, onde meu dia
 Eu analisava dados históricos e requisitos técnicos complexos para elaborar propostas que atendessem às necessidades dos meus clientes.  
 Essa vivência me ensinou, na prática, a **resolver problemas complexos**, desenvolver **visão sistêmica** e manter **atenção aos detalhes**.
 
-Hoje, estou focada em aprofundar meus estudos e dominar as principais ferramentas da área, trazendo comigo a **responsabilidade**, a **organização** e a **visão de processos** que construí ao longo da minha trajetória profissional.
+Hoje, estou focada em aprofundar meus estudos e dominar as principais ferramentas da área, trazendo comigo a **responsabilidade**, a **organização** e a **visão de processos** que construí ao longo da minha trajetória profissional. 
 <br>
 <br>
 
-### 👩🏻 **Sobre mim**
+
+## 👩🏻 **Sobre mim**
 
 🎬 **Cinema** | 🎲 **Board Games** | 🍺 **Cerveja artesanal** | 🎸 **Rock n' Roll** | 🌍 **Viagens**
+<br>
+<br>
+<br>
 
----
-
-### 💼 **Experiência Atual**
+## 💼 **Experiência Atual**
 
 🌟 **Estagiária - Tribunal de Justiça de São Paulo (TJSP)**  
 *Secretaria de Tecnologia da Informação (STI)*
 <br>
+<br>
+<br> 
 
----
 
-### 🎓 **Formação Acadêmica**
+## 🎓 **Formação Acadêmica**
 
 💻 **Bacharelado em Ciência da Computação** – FIAP *(jan/2026 → dez/2028)* 
 
@@ -33,14 +36,40 @@ Hoje, estou focada em aprofundar meus estudos e dominar as principais ferramenta
 🔬 **Bacharelado em Biomedicina** – UniMetrocamp *(dez/2018)* 
 
 🧪 **Técnico em Química** – ETECAP *(dez/2012)*
+<br>
+<br>
+<br> 
 
----
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  <!-- Stats principais -->
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=flaviapennachin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
+    alt="GitHub Stats da Flavia"
+  />
+
+  <!-- Linguagens mais usadas -->
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviapennachin&layout=compact&theme=radical&hide_border=true"
+    alt="Linguagens mais usadas da Flavia"
+  />
+
+</div>
+
+
+##
 <div style="display: inline_block">
   <img align="center" alt="Flavia-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Flavia-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   </div>
 
----
+
+##
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/flavia-pennachin/" target="_blank">
