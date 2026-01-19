@@ -64,10 +64,9 @@ Hoje, estou focada em aprofundar meus estudos e dominar as principais ferramenta
 
 ##
 <div style="display: inline_block">
-  <img align="center" alt="Flavia-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Flavia-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Flavia-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Flavia-SQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   </div>
-
 
 ##
 
