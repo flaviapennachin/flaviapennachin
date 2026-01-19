@@ -7,7 +7,7 @@
 
 <p align="center">
 Estou em transição para a área de Tecnologia. 
-Nos últimos dez anos, atuei com vendas B2B no setor ambiental, onde meu dia a dia ia muito além das negociações.  
+Nos últimos dez anos, atuei com vendas B2B no setor ambiental.  
   
 Hoje, estou focada em aprofundar meus estudos e dominar as principais ferramentas da área de Tecnologia e Data Science, trazendo comigo a **responsabilidade**, a **organização** e a **visão de processos** que construí ao longo da minha trajetória profissional. 
 
