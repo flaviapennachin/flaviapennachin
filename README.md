@@ -18,7 +18,7 @@ Aqui você encontrará projetos e experimentos com **IA, Python, SQL, Cloud e mu
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/flavia-pennachin/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a> 
 </p>
 
