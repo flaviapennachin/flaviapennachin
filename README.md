@@ -40,7 +40,7 @@ Aqui você encontrará projetos e experimentos com **IA, Python, SQL, Cloud e mu
 ### 💻Tech Stack 
   <!-- Linguagens mais usadas -->
   <p align="center">
-  <img width="30%" src="https://flaviapennachin.vercel.app/api/top-langs/?username=flaviapennachin&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  <img width="30%" src="https://flaviapennachin.vercel.app/api/top-langs/?username=flaviapennachin&layout=compact&langs_count=6&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 ---
