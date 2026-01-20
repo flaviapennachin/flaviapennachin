@@ -2,7 +2,7 @@
   Olá, Eu sou a Flavia Pennachin! 👋</h1>
 
 <p align="center">
-  <em>• Estudante de Ciência da Computação   • Foco em Dados   • Inteligência Artificial </em>
+  <em>• Estudante de Ciência da Computação   • Foco em Data Science   • Inteligência Artificial </em>
 </p>
 <br> 
 
