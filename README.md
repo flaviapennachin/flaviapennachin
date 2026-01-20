@@ -40,7 +40,7 @@ Aqui você encontrará projetos e experimentos com **IA, Python, SQL, Cloud e mu
 ### 💻Tech Stack 
   <!-- Linguagens mais usadas -->
   <p align="center">
-  <img width="30%" src="https://flaviapennachin.vercel.app/api/top-langs/?username=flaviapennachin&hide_border=true&layout=compact&title_color=00ff99&text_color=ffffff&bg_color=00000000" />
+  <img width="30%" src="https://flaviapennachin.vercel.app/api/top-langs/?username=flaviapennachin&layout=compact&langs_count=6&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 ---
@@ -48,5 +48,5 @@ Aqui você encontrará projetos e experimentos com **IA, Python, SQL, Cloud e mu
 ### 📊 Estatísticas do GitHub
   <!-- Stats principais -->
   <div align="center">
-  <img src="https://flaviapennachin.vercel.app/api?username=flaviapennachin&show_icons=true&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=00000000" />
+  <img src="https://flaviapennachin.vercel.app/api?username=flaviapennachin&show_icons=true&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 </p>
