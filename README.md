@@ -28,11 +28,10 @@ Aqui você encontrará projetos e experimentos com **IA, Python, SQL, Cloud e mu
 ---
 
 ### 🧠 **Sobre mim**
-- 🌟 Estagiária - Tribunal de Justiça de São Paulo (TJSP) - *Secretaria de Tecnologia da Informação (STI)*
-- 🔭 Bacharelado em Ciência da Computação – FIAP *(jan/2026 → dez/2028)*
-- 📊 Tecnólogo em Data Science – FIAP *(jan/2025 → dez/2025)*
-- 🔬 Bacharelado em Biomedicina – UniMetrocamp *(dez/2018)*
-- 🧪 Técnico em Química – ETECAP *(dez/2012)*
+- 🔭 Bacharelado em Ciência da Computação – FIAP *(jan/2026 → dez/2029)*
+- 📊 Tecnólogo em Data Science – FIAP *1 ano concluído*
+- 🔬 Bacharelado em Biomedicina – UniMetrocamp *Concluído*
+- 🧪 Técnico em Química – ETECAP *Concluído*
 - Apaixonada por: 🎬 Cinema | 🎲 Board Games | 🍺 Cerveja artesanal | 🎸 Rock n' Roll | 🌍 Viagens
 
 ---
