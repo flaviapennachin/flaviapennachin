@@ -29,9 +29,9 @@ Aqui você encontrará projetos e experimentos com **IA, Python, SQL, Cloud e mu
 
 ### 🧠 **Sobre mim**
 - 🔭 Bacharelado em Ciência da Computação – FIAP *(jan/2026 → dez/2029)*
-- 📊 Tecnólogo em Data Science – FIAP *1 ano concluído*
+- 📊 Tecnólogo em Data Science – FIAP *1 ano*
 - 🔬 Bacharelado em Biomedicina – UniMetrocamp *Concluído*
-- 🧪 Técnico em Química – ETECAP *Concluído*
+- 🧪 Técnico em Química – ETEP *Concluído*
 - Apaixonada por: 🎬 Cinema | 🎲 Board Games | 🍺 Cerveja artesanal | 🎸 Rock n' Roll | 🌍 Viagens
 
 ---
